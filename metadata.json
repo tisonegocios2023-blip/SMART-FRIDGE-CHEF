@@ -1,0 +1,5 @@
+{
+  "name": "Smart Fridge Chef",
+  "description": "Snap a photo of your fridge, and let AI suggest recipes based on what you have. Features dietary filters, step-by-step cooking mode with voice guidance, and an integrated shopping list.",
+  "requestFramePermissions": []
+}
